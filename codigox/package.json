@@ -1,0 +1,19 @@
+{
+  "name": "codigox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callbacks/xmlhttprequest.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "kevinooo kevinooo_18@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type":"module"
+}
